@@ -95,7 +95,7 @@ motto: "Build. Learn. Create. Better Tomorrow."
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HryacVerlassenManche&bg_color=0D1117&color=CBA6F7&line=9B72CF&point=FFB7D5&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HrlyacVerlassenManche&bg_color=0D1117&color=CBA6F7&line=9B72CF&point=FFB7D5&area=true&hide_border=true" />
 
 </div>
 
