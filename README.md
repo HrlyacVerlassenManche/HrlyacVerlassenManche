@@ -80,13 +80,13 @@ motto: "Build. Learn. Create. Better Tomorrow."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HryacVerlassenManche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CBA6F7&icon_color=CBA6F7&text_color=E6D9F2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HrlyacVerlassenManche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CBA6F7&icon_color=CBA6F7&text_color=E6D9F2" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HryacVerlassenManche&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=E6D9F2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrlyacVerlassenManche&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=E6D9F2" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=HryacVerlassenManche&theme=tokyonight&hide_border=true&background=0D1117&ring=CBA6F7&fire=FF9ED8&currStreakLabel=CBA6F7" />
+<img width="75%" src="https://streak-stats.demolab.com?user=HrlyacVerlassenManche&theme=tokyonight&hide_border=true&background=0D1117&ring=CBA6F7&fire=FF9ED8&currStreakLabel=CBA6F7" />
 
 </div>
 
