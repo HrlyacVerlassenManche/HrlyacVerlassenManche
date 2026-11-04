@@ -29,13 +29,12 @@
 ```yaml
 name: Jacky
 role: Full Stack Developer
-location: Indonesia
 
 interests:
   - Web Development
   - Programming
   - UI/UX Design
-  - Technology
+  - Cyber Security
 
 currently:
   - Learning new technologies
