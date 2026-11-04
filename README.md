@@ -16,7 +16,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-CODING-9B72CF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-B48EAD?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
