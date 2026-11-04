@@ -28,7 +28,6 @@
 
 ```yaml
 name: Jacky
-username: HryacVerlassenManche
 role: Full Stack Developer
 location: Indonesia
 
