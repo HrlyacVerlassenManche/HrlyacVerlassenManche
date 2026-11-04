@@ -23,7 +23,7 @@
 
 ## ✦ About Me
 
-<img align="right" width="180" src="https://media.giphy.com/edia/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
 name: Jacky
