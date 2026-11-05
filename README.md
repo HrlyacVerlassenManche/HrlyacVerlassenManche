@@ -53,7 +53,7 @@ motto: "Build. Learn. Create. Better Tomorrow."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ruby,python,java,js,php,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ruby,python,java,js,php,css,cpp&theme=dark" />
 
 </div>
 
@@ -61,7 +61,7 @@ motto: "Build. Learn. Create. Better Tomorrow."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,alpinejs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,react,alpinejs,tailwind,electron&theme=dark" />
 
 </div>
 
