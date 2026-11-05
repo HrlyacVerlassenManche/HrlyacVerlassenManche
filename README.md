@@ -69,7 +69,7 @@ motto: "Build. Learn. Create. Better Tomorrow."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,html,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,tailwind&theme=dark" />
 
 </div>
 
