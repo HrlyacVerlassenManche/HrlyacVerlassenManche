@@ -129,4 +129,4 @@ Alatku kubagi ke empat realm. Pembagian ini cuma cara merapikan tumpukan, bukan 
   <img src="./assets/footer.svg" alt="Kalau semua test lulus, berarti kamu belum bangun." width="100%">
 </p>
 
-<p align="center"><sub>Palet dan suasana terinspirasi dari Morimens. Bukan karya atau afiliasi resmi.</sub></p>
+
